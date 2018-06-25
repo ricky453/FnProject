@@ -1,0 +1,5 @@
+/home/ricky/NetBeansProjects/jsTable/FnProjectMarca/FnProjectMarca-ejb/src/main/java/sv/edu/uesocc/ingenieria/tpi2018/fnproject/Marca.java
+/home/ricky/NetBeansProjects/jsTable/FnProjectMarca/FnProjectMarca-ejb/src/main/java/sv/edu/uesocc/ingenieria/tpi2018/fnproject/sessions/MarcaFacade.java
+/home/ricky/NetBeansProjects/jsTable/FnProjectMarca/FnProjectMarca-ejb/src/main/java/sv/edu/uesocc/ingenieria/tpi2018/fnproject/sessions/AbstractFacade.java
+/home/ricky/NetBeansProjects/jsTable/FnProjectMarca/FnProjectMarca-ejb/src/main/java/sv/edu/uesocc/ingenieria/tpi2018/fnproject/sessions/AbstractFacadeInterface.java
+/home/ricky/NetBeansProjects/jsTable/FnProjectMarca/FnProjectMarca-ejb/src/main/java/sv/edu/uesocc/ingenieria/tpi2018/fnproject/sessions/MarcaFacadeLocal.java
